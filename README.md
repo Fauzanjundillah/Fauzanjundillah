@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### 🌐 Socials:
+<!-- ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16NAfyhR8K/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jundilah_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jundilah_3) ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitrogen12hi@gmail.com) 
 
 ### 💻 Tech Stack:
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fauzanjundillah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Fauzanjundillah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzanjundillah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzanjundillah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fauzanjundillah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
