@@ -1,4 +1,4 @@
-## Hi Everyone I'm M Fauzan Jundillah 👋
+## Hi Everyone 👋 I'm M Fauzan Jundillah 
 ![M Fauzan Jundillah](img/Profile%20github.png)
 
 <!--
