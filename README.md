@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi Everyone I'm M Fauzan Jundillah 👋
+![M Fauzan Jundillah](img/Profile%20github.png)
 
 <!--
 **Fauzanjundillah/Fauzanjundillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on **@Sagala_codingsolution**.
+🌱 I’m currently learning **Java, Laravel** Framework.
+
+
+
